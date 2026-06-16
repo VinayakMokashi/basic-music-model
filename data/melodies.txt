@@ -1,0 +1,84 @@
+# Public-domain melodies in C major.
+# Token format: PITCH_DURATION  (e=eighth, q=quarter, h=half, w=whole, R=rest)
+# Lines starting with '#' are comments and are ignored by the loader.
+
+# --- Twinkle Twinkle Little Star ---
+C4_q C4_q G4_q G4_q A4_q A4_q G4_h F4_q F4_q E4_q E4_q D4_q D4_q C4_h R_q
+G4_q G4_q F4_q F4_q E4_q E4_q D4_h G4_q G4_q F4_q F4_q E4_q E4_q D4_h R_q
+C4_q C4_q G4_q G4_q A4_q A4_q G4_h F4_q F4_q E4_q E4_q D4_q D4_q C4_h R_q
+
+# --- Mary Had a Little Lamb ---
+E4_q D4_q C4_q D4_q E4_q E4_q E4_h D4_q D4_q D4_h E4_q G4_q G4_h R_q
+E4_q D4_q C4_q D4_q E4_q E4_q E4_q E4_q D4_q D4_q E4_q D4_q C4_w R_q
+
+# --- Ode to Joy ---
+E4_q E4_q F4_q G4_q G4_q F4_q E4_q D4_q C4_q C4_q D4_q E4_q E4_q D4_q D4_h R_q
+E4_q E4_q F4_q G4_q G4_q F4_q E4_q D4_q C4_q C4_q D4_q E4_q D4_q C4_q C4_h R_q
+
+# --- Happy Birthday ---
+G4_e G4_e A4_q G4_q C5_q B4_h G4_e G4_e A4_q G4_q D5_q C5_h R_q
+G4_e G4_e G5_q E5_q C5_q B4_q A4_h F5_e F5_e E5_q C5_q D5_q C5_h R_q
+
+# --- Jingle Bells (chorus) ---
+E4_q E4_q E4_h E4_q E4_q E4_h E4_q G4_q C4_q D4_q E4_w R_q
+F4_q F4_q F4_q F4_q F4_q E4_q E4_q E4_e E4_e E4_q D4_q D4_q E4_q D4_h G4_h R_q
+
+# --- Row, Row, Row Your Boat ---
+C4_q C4_q C4_q D4_q E4_h E4_q D4_q E4_q F4_q G4_h R_q
+C5_e C5_e C5_e G4_e G4_e G4_e E4_e E4_e E4_e C4_e C4_e C4_e G4_q F4_q E4_q D4_q C4_h R_q
+
+# --- London Bridge Is Falling Down ---
+G4_q A4_q G4_q F4_q E4_q F4_q G4_h D4_q E4_q F4_h E4_q F4_q G4_h R_q
+G4_q A4_q G4_q F4_q E4_q F4_q G4_h D4_h G4_q E4_q C4_h R_q
+
+# --- Frere Jacques ---
+C4_q D4_q E4_q C4_q C4_q D4_q E4_q C4_q E4_q F4_q G4_h E4_q F4_q G4_h R_q
+G4_e A4_e G4_e F4_e E4_q C4_q G4_e A4_e G4_e F4_e E4_q C4_q C4_q G3_q C4_h R_q
+
+# --- Hot Cross Buns ---
+E4_q D4_q C4_h E4_q D4_q C4_h C4_e C4_e C4_e C4_e D4_e D4_e D4_e D4_e E4_q D4_q C4_h R_q
+
+# --- Old MacDonald Had a Farm ---
+G4_q G4_q G4_q D4_q E4_q E4_q D4_h B4_q B4_q A4_q A4_q G4_h R_q
+G4_q G4_q G4_q D4_q E4_q E4_q D4_h B4_q B4_q A4_q A4_q G4_w R_q
+
+# --- This Old Man ---
+G4_q E4_q G4_h G4_q E4_q G4_h A4_q G4_q F4_q E4_q D4_q E4_q F4_q G4_q G4_q D4_q E4_q F4_q G4_h R_q
+
+# --- Yankee Doodle ---
+C4_q C4_q D4_q E4_q C4_q E4_q D4_h C4_q C4_q D4_q E4_q C4_h B3_h R_q
+C4_q C4_q D4_q E4_q F4_q E4_q D4_q C4_q B3_q G3_q A3_q B3_q C4_w R_q
+
+# --- When the Saints Go Marching In ---
+C4_q E4_q F4_q G4_w C4_q E4_q F4_q G4_w R_q
+C4_q E4_q F4_q G4_h E4_q C4_q E4_q D4_h R_q
+E4_q E4_q D4_q C4_q E4_q G4_h G4_q F4_q E4_q F4_q G4_h E4_q C4_q D4_q C4_w R_q
+
+# --- Joy to the World (opening) ---
+C5_q B4_e A4_e G4_q F4_q E4_q D4_q C4_q G4_e A4_e A4_e B4_e B4_e C5_h R_q
+
+# --- Itsy Bitsy Spider ---
+G3_q C4_q C4_q C4_q D4_q E4_q E4_h E4_q D4_q C4_q D4_q E4_q C4_h R_q
+E4_q E4_q F4_q G4_h G4_q F4_q E4_q F4_q G4_q E4_h C4_q C4_q D4_q E4_q E4_q D4_q C4_w R_q
+
+# --- Au Clair de la Lune ---
+C4_q C4_q C4_q D4_q E4_h D4_h C4_q E4_q D4_q D4_q C4_w R_q
+
+# --- Lightly Row ---
+G4_q E4_q E4_h F4_q D4_q D4_h C4_q D4_q E4_q F4_q G4_q G4_q G4_h R_q
+G4_q E4_q E4_h F4_q D4_q D4_h C4_q E4_q G4_q G4_q E4_q C4_q C4_h R_q
+
+# --- Skip to My Lou ---
+G4_q G4_q G4_q E4_q G4_q G4_q G4_q E4_q G4_q G4_q E4_q G4_q A4_q G4_q E4_h R_q
+
+# --- Scale and arpeggio drills (reinforce the C-major key) ---
+C4_q D4_q E4_q F4_q G4_q A4_q B4_q C5_h R_q
+C5_q B4_q A4_q G4_q F4_q E4_q D4_q C4_h R_q
+C4_q E4_q G4_q C5_q G4_q E4_q C4_h R_q
+G4_q B4_q D5_q G5_q D5_q B4_q G4_h R_q
+C4_q D4_q E4_q F4_q G4_q A4_q B4_q C5_q B4_q A4_q G4_q F4_q E4_q D4_q C4_w R_q
+
+# --- Common cadences (V7 -> I resolutions) ---
+G4_q F4_q E4_q D4_q C4_h R_q
+D4_q E4_q F4_q E4_q D4_q C4_h R_q
+G4_q G4_q A4_q G4_q F4_q E4_q D4_q C4_h R_q
